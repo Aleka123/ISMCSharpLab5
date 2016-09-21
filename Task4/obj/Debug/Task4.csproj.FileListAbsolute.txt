@@ -1,0 +1,5 @@
+C:\Users\Маринка\Desktop\ISM\ISMCSharpLab5\Task4\bin\Debug\Task4.exe.config
+C:\Users\Маринка\Desktop\ISM\ISMCSharpLab5\Task4\bin\Debug\Task4.exe
+C:\Users\Маринка\Desktop\ISM\ISMCSharpLab5\Task4\bin\Debug\Task4.pdb
+C:\Users\Маринка\Desktop\ISM\ISMCSharpLab5\Task4\obj\Debug\Task4.exe
+C:\Users\Маринка\Desktop\ISM\ISMCSharpLab5\Task4\obj\Debug\Task4.pdb

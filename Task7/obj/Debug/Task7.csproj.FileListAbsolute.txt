@@ -1,0 +1,6 @@
+C:\Users\Маринка\Desktop\ISM\ISMCSharpLab5\Task7\bin\Debug\Task7.exe.config
+C:\Users\Маринка\Desktop\ISM\ISMCSharpLab5\Task7\obj\Debug\Task7.csprojResolveAssemblyReference.cache
+C:\Users\Маринка\Desktop\ISM\ISMCSharpLab5\Task7\bin\Debug\Task7.exe
+C:\Users\Маринка\Desktop\ISM\ISMCSharpLab5\Task7\bin\Debug\Task7.pdb
+C:\Users\Маринка\Desktop\ISM\ISMCSharpLab5\Task7\obj\Debug\Task7.exe
+C:\Users\Маринка\Desktop\ISM\ISMCSharpLab5\Task7\obj\Debug\Task7.pdb
